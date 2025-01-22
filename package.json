@@ -1,0 +1,18 @@
+{
+  "name": "jstest2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Artem Pentuyshenkov",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@eslint/js": "^9.18.0",
+    "eslint": "^9.18.0",
+    "globals": "^15.14.0",
+    "prettier": "3.4.2",
+    "typescript-eslint": "^8.21.0"
+  }
+}
