@@ -5,7 +5,7 @@ const func = () => {
     
     console.log(sum(x, y)); // 30
     
-    debugger;
+
     x = 20;
     y = 30;
     
